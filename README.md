@@ -15,4 +15,4 @@ Step2:进入jdk/bin，（我的路径是：C:\Program Files\Java\jdk-11.0.2\bin�
 
 Step3:输入jlink.exe --module-path jmods --add-modules java.desktop --output jre
 ```
-- jfx的官网地址https://openjfx.io/，国内可能略慢，上面有jfx的sdk和doc
+- jfx的官网地址https://openjfx.io/  （国内可能略慢，上面有jfx的sdk和doc）
