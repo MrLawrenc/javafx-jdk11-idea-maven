@@ -5,6 +5,7 @@
 - 选择open，选择附带的jfx11.exe4j文件，即可导入配置
 
 - 选择第五步Java invocation更改jar包位置为自己的jar包路径(有边有编辑按钮)
+- 更新下面的mainClass为自己的辅助Launcher类
 
 - 之后将jre放在桌面，随后点击finish即可在桌面生成exe文件
 
