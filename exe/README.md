@@ -26,3 +26,5 @@ Parent root = fxmlLoader.load();
 ### 如果打包之后启动exe文件失败报错
 - 先使用java -jar 名字.jar  启动看看是否报错
 - 如果不报错请仔细检查exe4j配置和文件目录等信息
+- 根据生成的exe文件日志查看错误原因，根据报错代码行进一步查找原因
+- 在exe4j生成exe文件的时候可以配置日志，具体在 Executable->Redirectionp里面，可以配置error.log和output.log生成方式
