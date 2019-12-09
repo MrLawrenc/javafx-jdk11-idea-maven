@@ -8,6 +8,7 @@ clone之后可以直接在idea运行
 
 ### 打包为exe文件
 - exe目录下包含所需要的打包软件及配置
+- exe下还包含jfx相关开发工具
 ### 附
 - 使用jlink获取jdk11的jre
 ```cmd

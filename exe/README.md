@@ -28,3 +28,5 @@ Parent root = fxmlLoader.load();
 - 如果不报错请仔细检查exe4j配置和文件目录等信息
 - 根据生成的exe文件日志查看错误原因，根据报错代码行进一步查找原因
 - 在exe4j生成exe文件的时候可以配置日志，具体在 Executable->Redirectionp里面，可以配置error.log和output.log生成方式
+- 查看是否因为exe4j版本造成的，我自己试了6.0版本会报错，打印日志发现资源文件都是从c盘的用户目录寻找，但是5.0版本可以正常使用
+- scenebuilder和jcpicker是jfx开发相关工具，后者是一款取色器，配合使用比较方便
